@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: gowthamk19/docker-new:1
+          image: gowthamk19/docker-new:3
           ports:
             - containerPort: 5000
           resources:
